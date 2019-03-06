@@ -30,19 +30,19 @@ Frequency Central power supply
 
 (What the fuck do I have to do to make markdown recognize a fucking list?)
 
-    * 1x PCB https://www.ebay.co.uk/itm/253819427984
-    * 3x 1K 1/4 W resistor: https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/10-x-resistor-1k-ohm-1-4w-1-metal-film-pkg-of-10.html
-    * 2x 100nf capacitor: https://www.taydaelectronics.com/0-1uf-100v-5-polyester-film-box-type-capacitor.html
-    * 3x 100uf capacitor 35V :  https://www.taydaelectronics.com/100uf-35v-105c-radial-electrolytic-capacitor-6x11mm.html
-    * 6x 4700uf capacitor 25V: https://www.taydaelectronics.com/4700uf-25v-105c-radial-electrolytic-capacitor-16x26mm.html
-    * 1x 7812 +12V 1.5A voltage regulator: https://www.taydaelectronics.com/l7812cv-lm7812-l7812-voltage-regulator-ic-12v-1-5a.html
-    * 1x 7912 -12V 1.5A voltage regulator: https://www.taydaelectronics.com/l7912cv-lm7912-l7912-7912-voltage-regulator-ic-12v-1-5a.html
-    * 1x 7805 +5V 100ma voltage regulator: https://www.taydaelectronics.com/l78l05acz-l78l05-78l05-5-volts-100ma-voltage-regulator-ic.html
-    * 6x 1N4004 1A 400V diode: https://www.taydaelectronics.com/1n4004-diode-1a-400v.html
-    * 3x 3mm red LED: https://www.taydaelectronics.com/led-3mm-red.html
-    * 2x heatsink: https://www.taydaelectronics.com/heatsink-to-220-4-fins-aluminium.html
-    * 1x 2x40 2.54mm double row pin header strip: https://www.taydaelectronics.com/connectors-sockets/pin-headers/2x40-pin-2-54-mm-double-row-pin-header-strip.html
-    * 2x M3 bolt (to connect heatsinks to voltage regulators)
+* 1x PCB https://www.ebay.co.uk/itm/253819427984
+* 3x 1K 1/4 W resistor: https://www.taydaelectronics.com/resistors/1-4w-metal-film-resistors/10-x-resistor-1k-ohm-1-4w-1-metal-film-pkg-of-10.html
+* 2x 100nf capacitor: https://www.taydaelectronics.com/0-1uf-100v-5-polyester-film-box-type-capacitor.html
+* 3x 100uf capacitor 35V :  https://www.taydaelectronics.com/100uf-35v-105c-radial-electrolytic-capacitor-6x11mm.html
+* 6x 4700uf capacitor 25V: https://www.taydaelectronics.com/4700uf-25v-105c-radial-electrolytic-capacitor-16x26mm.html
+* 1x 7812 +12V 1.5A voltage regulator: https://www.taydaelectronics.com/l7812cv-lm7812-l7812-voltage-regulator-ic-12v-1-5a.html
+* 1x 7912 -12V 1.5A voltage regulator: https://www.taydaelectronics.com/l7912cv-lm7912-l7912-7912-voltage-regulator-ic-12v-1-5a.html
+* 1x 7805 +5V 100ma voltage regulator: https://www.taydaelectronics.com/l78l05acz-l78l05-78l05-5-volts-100ma-voltage-regulator-ic.html
+* 6x 1N4004 1A 400V diode: https://www.taydaelectronics.com/1n4004-diode-1a-400v.html
+* 3x 3mm red LED: https://www.taydaelectronics.com/led-3mm-red.html
+* 2x heatsink: https://www.taydaelectronics.com/heatsink-to-220-4-fins-aluminium.html
+* 1x 2x40 2.54mm double row pin header strip: https://www.taydaelectronics.com/connectors-sockets/pin-headers/2x40-pin-2-54-mm-double-row-pin-header-strip.html
+* 2x M3 bolt (to connect heatsinks to voltage regulators)
 
 1x 3A 12V AC/AC wall wart power supply (hard to find 3A).
 
