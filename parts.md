@@ -77,6 +77,13 @@ https://www.lookmumnocomputer.com/cem-3340-diy-simple/
 * * 1x TLO72 opamp
 * 3x 1/4 inch jack sockets
 
+There is also a PCB + surface mount components version of this LMNC VCO described here,
+with an associated github repo with kicad files:
+
+* https://hackaday.io/project/161548-modular-synthesizer/log/153776-vco-module-first-pass
+* https://github.com/xxv/modular-vco
+
+
 Another, more complicated VCO:
 http://skullandcircuits.com/the-oscillator-one/
 
